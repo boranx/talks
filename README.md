@@ -12,4 +12,9 @@
 - Coexistence of AI and humans in production environments
 - Defining permission boundaries for Support Engineers, Site Reliability Engineers, and AI tools
 
+### 3. [SRE'ing the SRE AI Agents](https://www.youtube.com/watch?v=Rz_0TDzJD_U)
+
+- How to SRE your AI agents like real teammates—permissions, observability, and all.
+- Keeping AI useful, reliable, and not the reason prod goes down.
+
 ---
